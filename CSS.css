@@ -26,6 +26,7 @@ body {
 }
 
 .square {
+  display: flex;
   width: 200px  ;
   height: 5000px;
   background: rgb(232, 23, 152);
